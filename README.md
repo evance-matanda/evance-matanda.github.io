@@ -15,13 +15,10 @@ Third-year Electrical and Electronics Engineering student at MUBAS with a passio
 ### VR Room for Evance Matanda (Unity learn project)
 > Unity | Oculus Integration | XR Interaction Toolkit  
 Developed a VR Room with object interaction, locomotion, and basic UI systems.  
-🔗 [Demo Video](#) | 💻 [Code Samples](#)
+🔗 [Demo Video](https://youtu.be/PnxcSMzab5I)
 
-### AR Business Card
-> Unity | AR Foundation  
-Marker-based AR application that displays contact information when scanning an image target.  
-📱 [APK Download](#)
-
+### UbuntuFit
+>  
 *More personal projects coming soon! Currently developing a VR Car racing game.*
 
 ## 📚 Education
