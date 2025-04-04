@@ -31,7 +31,7 @@ Third-year Electrical and Electronics Engineering student at MUBAS with a passio
 
 ## 📫 Contact
 - 📧 Email: [evancematanda@gmail.com](mailto:evancematanda@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/evancematanda](#)
-- 🐱 GitHub: [github.com/evance-matanda](#)
+- 🔗 LinkedIn: [linkedin.com/in/evancematanda](https://www.linkedin.com/in/evance-matanda-39b095314/)
+- 🐱 GitHub: [github.com/evance-matanda](https://github.com/evance-matanda)
 
 ---
