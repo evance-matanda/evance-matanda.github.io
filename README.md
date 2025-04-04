@@ -14,7 +14,7 @@ Third-year Electrical and Electronics Engineering student at MUBAS with a passio
 ## 🎮 Projects
 ### VR Room for Evance Matanda (Unity learn project)
 > Unity | Oculus Integration | XR Interaction Toolkit  
-Developed a VR Room with object interaction, locomotion, and basic UI systems.  
+- Developed a VR Room with object interaction, locomotion, and basic UI systems.  
 🔗 [Demo Video](https://youtu.be/PnxcSMzab5I)
 
 ### UbuntuFit
