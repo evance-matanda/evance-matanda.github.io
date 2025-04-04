@@ -1,22 +1,20 @@
 # evance-matanda.github.io
 ## 👋 About Me
-Third-year Electrical Engineering student at MUBAS with a passion for immersive tech. Recently completed XR development training at Africacomicade and now building my own VR experiences. Combining hardware knowledge with software creativity to develop XR solutions.
+Third-year Electrical and Electronics Engineering student at MUBAS with a passion for immersive tech. Recently completed XR development training at Africacomicade and now building my own VR experiences. My goal is to be able to Combine hardware knowledge with software creativity to develop XR solutions and immersive experiences.
 
 ## 🛠️ Technical Skills
 ### XR Development
-- **Engines:** Unity3D, Unreal Engine (Beginner)
+- **Engines:** Unity3D
 - **Frameworks:** XR Interaction Toolkit, AR Foundation, OpenXR
-- **Languages:** C#, Python, C++ (Basics)
+- **Languages:** C#, C++
 
 ### Supporting Skills
-- 3D Modeling (Blender)
 - Version Control (Git/GitHub)
-- IoT & Embedded Systems (Arduino)
 
 ## 🎮 Projects
-### VR Interaction Lab (Africacomicade Training)
+### VR Room for Evance Matanda (Unity learn project)
 > Unity | Oculus Integration | XR Interaction Toolkit  
-Developed a VR environment with object interaction, locomotion, and basic UI systems.  
+Developed a VR Room with object interaction, locomotion, and basic UI systems.  
 🔗 [Demo Video](#) | 💻 [Code Samples](#)
 
 ### AR Business Card
@@ -24,25 +22,19 @@ Developed a VR environment with object interaction, locomotion, and basic UI sys
 Marker-based AR application that displays contact information when scanning an image target.  
 📱 [APK Download](#)
 
-*More personal projects coming soon! Currently developing a VR puzzle game prototype.*
+*More personal projects coming soon! Currently developing a VR Car racing game.*
 
 ## 📚 Education
-- **BEng in Electrical & Electronics Engineering**  
+- **Bachelor of Electrical & Electronics Engineering**  
   Malawi University of Business and Applied Sciences (2021–2025)
 
-- **XR Development Certificate**  
-  Africacomicade (2024)
+- **XR Development**  
+  Africacomicade (2024-2025)
 
-## 🌱 Currently Learning
-- Advanced Unity VR development
-- Unreal Engine Blueprints
-- Multiplayer VR networking
 
 ## 📫 Contact
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](#)
-- 🐱 GitHub: [github.com/yourusername](#)
+- 📧 Email: [evancematanda@gmail.com](mailto:evancematanda@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/evancematanda](#)
+- 🐱 GitHub: [github.com/evance-matanda](#)
 
 ---
-
-> *"Turning electrical signals into immersive experiences."*
