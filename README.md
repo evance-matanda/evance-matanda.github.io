@@ -1,4 +1,4 @@
-# evance-matanda.github.io
+# Evance Matanda Portfolio
 ## 👋 About Me
 Third-year Electrical and Electronics Engineering student at MUBAS with a passion for immersive tech. Recently completed XR development training at Africacomicade and now building my own VR experiences. My goal is to be able to Combine hardware knowledge with software creativity to develop XR solutions and immersive experiences.
 
